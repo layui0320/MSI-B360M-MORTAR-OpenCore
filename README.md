@@ -1,6 +1,6 @@
 # MSI-B360M-MORTAR-OpenCore
 
-#项目不再维护
+# 项目不再维护
 
 
 > 本项目efi基于此修改：https://github.com/SuperNG6/MSI-B360-Big-Sur-EFI
